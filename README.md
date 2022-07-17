@@ -6,3 +6,4 @@ Please create pull requests to add your .cm files to the repo using your CM appl
 
 For more information on CM and .cm files check out [What is Continuous Merge](https://linearb.io)
 
+Please check out the Continuous Merge docs to learn more
